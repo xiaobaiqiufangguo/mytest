@@ -1,19 +1,10 @@
 1234
 abcd
 <<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
->>>>>>> devlop
 4567
 4567
 =======
 >>>>>>> c20e736a347e2457e9f3f748c5022602e279692e
-<<<<<<< HEAD
-jjjjjjj
->>>>>>> parent of 5fd7f04... aa
-=======
 <<<<<<< HEAD
 jjjjjjjjjjjjj
 =======
@@ -26,4 +17,3 @@ hhhhhhhhhhhhh
 kkkkkkkkkkkkk
 >>>>>>> .merge_file_a14772
 阿哲
->>>>>>> devlop
